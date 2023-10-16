@@ -1,0 +1,6 @@
+// WiFi Credentials (edit as required)
+char ssid[] = "FBI Surveillance Van 2.4";      // Wifi SSID
+char pass[] = "shutthefuckup";       // Wifi password
+
+// IIC Address
+#define SCREEN_ADDRESS 0x3C 
